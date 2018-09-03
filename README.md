@@ -1,4 +1,4 @@
-# RETO 1.P06: Utiliza Los Colores
+ <# RETO 1.P06: Utiliza Los Colores
 Copia más abajo tus programas, cada uno en su parte del reto.
 
 # PROGRAMAS
@@ -28,7 +28,7 @@ PC: 4000
 PC: 4000
 
 # IMAGENES
-Si quieres, puedes subir pantallazos y enlazarlos aquí.
+Si quieres, puedes subir pantallazos y enlazarlos aquí. <br>
 ![Actividad 1](/pixelrojo.png)
 ![Actividad 2](/pixelazul.png)
 ![Actividad 3](/pixelamarillo.png)
